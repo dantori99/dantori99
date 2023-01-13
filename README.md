@@ -1,6 +1,6 @@
 [![@dantori99's Holopin board](https://holopin.io/api/user/board?user=dantori99)](https://holopin.io/@dantori99)
 <h1 align="center">Hi 👋, I'm Daniel Harianja</h1>
-<h3 align="center">A Junior Backend Engineer from Indonesia</h3>
+<h3 align="center">Backend Engineer from Indonesia</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/kvssankar/kvssankar/main/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dantori99&label=Profile%20views&color=0e75b6&style=flat" alt="dantori99" /> </p>
